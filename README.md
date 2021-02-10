@@ -1,0 +1,2 @@
+# admins
+To mine inventory 
